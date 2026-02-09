@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Project
 
-**FK Željeznicar Redesign / Web Project**  
+**FK Željezničar Redesign / Web Project**  
 Live website: <a href="https://avdoh2160.com">here</a>  
 
 <div align="center">
@@ -49,4 +49,4 @@ Live website: <a href="https://avdoh2160.com">here</a>
   </a>
 </div>
 
-> ⚠️ Disclaimer: All rights reserved by FK Željeznicar. This project is created solely to demonstrate my skills.
+> ⚠️ Disclaimer: All rights reserved by FK Željezničar. This project is created solely to demonstrate my skills.
