@@ -44,7 +44,7 @@
 Live website: <a href="https://avdoh2160.com">here</a>  
 
 <div align="center">
-  <a href="https://avdoh2160.com" target="_blank">
+  <a href="https://github.com/AvdoH2160/FKZeljeznicarRedesign" target="_blank">
     <img width="600" src="https://github.com/user-attachments/assets/ca7857d8-e6bf-4159-93c7-635e6241cdbd" alt="FKZ Website Preview" />
   </a>
 </div>
